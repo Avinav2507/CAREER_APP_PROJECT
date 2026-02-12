@@ -25,23 +25,23 @@ This program conducts a basic aptitude test and recommends a suitable career fie
 
 🧩 Demonstrates OOP concepts:
 
-Classes & Objects
+. Classes & Objects
 
-Inheritance
+. Inheritance
 
-Polymorphism (Virtual Functions)
+. Polymorphism (Virtual Functions)
 
-Abstraction
+. Abstraction
 
-Dynamic Memory Allocation
+. Dynamic Memory Allocation
 
 🛠️ Technologies Used
 
-Language: C++
+. Language: C++
 
-Concepts: Object-Oriented Programming (OOP)
+. Concepts: Object-Oriented Programming (OOP)
 
-Compiler: g++ / any standard C++ compiler
+. Compiler: g++ / any standard C++ compiler
 
 🏗️ Project Structure
 Classes Used:
@@ -99,16 +99,62 @@ Program conducts a 4-question aptitude test.
 
 Scores are calculated for:
 
-Science
+. Science
 
-Commerce
+. Commerce
 
-Arts
+. Arts
 
-Medical
+. Medical
 
 The highest score determines the recommended career field.
 
 A specialized counselor is assigned.
 
 Final report is generated and displayed
+
+📷 Sample Output
+--- Career Counseling Report ---
+Student Name: Avinav
+Age: 19
+Interests: Coding
+Recommended Career Field: Science
+Advice: Hi Avinav, you should explore engineering, coding, or research paths.
+
+Counselor Assigned: Dr. Mehta (STEM Counselor)
+Contact: mehta@counsel.com
+--- End of Report ---
+
+🎯 Learning Outcomes
+
+. This project helps in understanding:
+
+. OOP design principles
+
+. Virtual functions & runtime polymorphism
+
+. Dynamic object creation (new and delete)
+
+. Decision-making logic using conditionals
+
+. Basic user interaction in console applications
+
+🚀 Future Improvements
+
+1. Add file handling to store student records
+
+2. Use getline() to allow full names and multi-word interests
+
+3. Improve aptitude test scoring logic
+
+4. Add more career domains
+
+5. Create a GUI version
+
+6. Convert to a web-based system (using backend frameworks)
+
+👨‍💻 Author
+
+Avinav Goswami
+B.Tech CSE Student
+Interested in Backend Development & Software Engineering
